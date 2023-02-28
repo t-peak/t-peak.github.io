@@ -204,6 +204,8 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    louie (0.1.4)
+      jekyll (~> 3.3)
     mercenary (0.3.6)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -258,7 +260,7 @@ DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  louie
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

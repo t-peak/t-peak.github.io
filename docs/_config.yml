@@ -28,7 +28,7 @@ twitter_username: N/A
 github_username:  t-peak
 
 # Build settings
-theme: minima
+theme: louie
 plugins:
   - jekyll-feed
 
