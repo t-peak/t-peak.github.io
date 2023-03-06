@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Should you be castigated for running Castigate?
 categories: standard meta shurima
 ---
